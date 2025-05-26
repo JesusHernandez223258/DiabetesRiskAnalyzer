@@ -1,0 +1,97 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración
+*.env
+*.ini
+*.cfg
+*.toml
+
+# Archivos de log
+*.log
+
+# Archivos de base de datos
+*.sqlite3
+*.db
+
+# Archivos de datos
+*.csv
+*.tsv
+*.xls
+~$*.xlsx
+
+# Directorios de pruebas y cobertura
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Documentación generada
+docs/_build/
+
+# Archivos de distribución
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Archivos de PyInstaller
+*.manifest
+*.spec
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Archivos de IPython
+profile_default/
+ipython_config.py
+
+# Archivos de editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de matplotlib
+.matplotlib/
+.matplotlib_font_cache/
+
+# Archivos temporales
+*~
+*.bak
+*.swp
+
+# Archivos de configuración de VSCode
+settings.json
